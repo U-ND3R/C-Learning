@@ -2,7 +2,7 @@
 Made for displaying tasks (title, description, example) and their solutions
 
 ## Assignment format
-Each task is stored in a separate file inside the `tasks` folder
+Each task is stored in a separate file and separate folder inside the `tasks` folder (`tasks`/`<section_name>`)
 The file contains the condition (in the comment) and the solution
 
 ## Contents
