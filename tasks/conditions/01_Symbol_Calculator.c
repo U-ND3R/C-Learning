@@ -36,4 +36,5 @@ int main(){
     } else {
         printf("Unknown operator");
     }
+    return 0;
 }
