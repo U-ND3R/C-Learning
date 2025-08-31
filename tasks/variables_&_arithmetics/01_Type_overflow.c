@@ -13,4 +13,5 @@ int main(){
   scanf("%c", &x);
   int y = x;
   printf("As a character - %c\nAs an integer - %d", x, y);
+  return 0;
 }
