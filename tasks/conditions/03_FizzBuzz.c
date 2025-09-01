@@ -2,7 +2,11 @@
 
 int main(){
   // Task: Scan a user's number, and print `Fizz` if number is divisible by 3,  `Buzz` if number is divisible by 5, `FizzBuzz` if number is divisible by 3 and 5
-
+  /*
+    EXAMPLE:
+    Please enter number: 15
+    FizzBuzz
+  */
   int num;
   printf("Please enter number: ");
   scanf("%d", &num);
